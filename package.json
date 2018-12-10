@@ -1,0 +1,35 @@
+{
+  "name": "over-9k",
+  "version": "1.0.0",
+  "description": "It's over 9000!",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "three18ti <three18ti@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=11.4.0"
+  },
+  "dependencies": {
+    "mocha": "^5.2.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/three18ti/over-9k.git"
+  },
+  "keywords": [
+    "over",
+    "9000",
+    "nine-thousand"
+  ],
+  "bugs": {
+    "url": "https://github.com/three18ti/over-9k/issues"
+  },
+  "homepage": "https://github.com/three18ti/over-9k#readme"
+}
