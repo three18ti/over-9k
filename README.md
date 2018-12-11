@@ -30,4 +30,6 @@ over9000(9001) // true
 over9000(8999) // false
 ```
 
+## Credit
 
+This code and inspiration for this library provided by reddit commentor [u/bmarkovic](https://www.reddit.com/user/bmarkovic)
