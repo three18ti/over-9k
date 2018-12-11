@@ -9,5 +9,8 @@ describe('over9000', function() {
     it('returns false when the value is under 9000', function() {
       assert.equal(over9000(8999), false)
     })
+    it('returns false when the value is equal to 9000', function() {
+      assert.equal(over9000(9000), false)
+    })
   })
 })
