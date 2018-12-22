@@ -18,7 +18,7 @@ This node module is designed to test if a value is over 9000.
 ## Installation
 
 ```node
-  npm isntall over-9k
+  npm install over-9k
 ```
 
 ## Usage
